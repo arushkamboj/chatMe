@@ -1,2 +1,2 @@
 # chatMe
-Anonymous chatMe using Node.js
+Anonymous Node.js chatMe application. 
